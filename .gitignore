@@ -1,5 +1,12 @@
 .terraform/
+<<<<<<< HEAD
 .terraform.lock.hcl
 terraform.tfstate
 terraform.tfstate.*
 *.tfvars
+=======
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
+>>>>>>> 15719c8eb8958a4a78f9d147aae478e47b6978ac
