@@ -1,6 +1,5 @@
-terraform.tfstate
-terraform.tfstate.backup
 .terraform/
-*.pem
-ec2.txt
-
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+terraform.tfvars
